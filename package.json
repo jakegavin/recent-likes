@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jakegavin/recent-likes/issues"
   },
-  "homepage": "https://github.com/jakegavin/recent-likes#readme"
+  "homepage": "https://github.com/jakegavin/recent-likes#readme",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
 }
